@@ -1,0 +1,16 @@
+C:\Users\david\source\repos\Corte2\Corte2\obj\Debug\net9.0-windows\Corte2.Form1.resources
+C:\Users\david\source\repos\Corte2\Corte2\obj\Debug\net9.0-windows\Corte2.csproj.GenerateResource.cache
+C:\Users\david\source\repos\Corte2\Corte2\obj\Debug\net9.0-windows\Corte2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\source\repos\Corte2\Corte2\obj\Debug\net9.0-windows\Corte2.AssemblyInfoInputs.cache
+C:\Users\david\source\repos\Corte2\Corte2\obj\Debug\net9.0-windows\Corte2.AssemblyInfo.cs
+C:\Users\david\source\repos\Corte2\Corte2\obj\Debug\net9.0-windows\Corte2.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\Corte2\Corte2\bin\Debug\net9.0-windows\Corte2.exe
+C:\Users\david\source\repos\Corte2\Corte2\bin\Debug\net9.0-windows\Corte2.deps.json
+C:\Users\david\source\repos\Corte2\Corte2\bin\Debug\net9.0-windows\Corte2.runtimeconfig.json
+C:\Users\david\source\repos\Corte2\Corte2\bin\Debug\net9.0-windows\Corte2.dll
+C:\Users\david\source\repos\Corte2\Corte2\bin\Debug\net9.0-windows\Corte2.pdb
+C:\Users\david\source\repos\Corte2\Corte2\obj\Debug\net9.0-windows\Corte2.dll
+C:\Users\david\source\repos\Corte2\Corte2\obj\Debug\net9.0-windows\refint\Corte2.dll
+C:\Users\david\source\repos\Corte2\Corte2\obj\Debug\net9.0-windows\Corte2.pdb
+C:\Users\david\source\repos\Corte2\Corte2\obj\Debug\net9.0-windows\Corte2.genruntimeconfig.cache
+C:\Users\david\source\repos\Corte2\Corte2\obj\Debug\net9.0-windows\ref\Corte2.dll
